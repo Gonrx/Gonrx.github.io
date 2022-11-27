@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(img-mobile/fondo-general-02.svg);
+    
+}
+
+.sombra{
+    color:#84ff4f;
+    text-shadow: rgb(83, 126, 22) 0.1em 0.1em 0.2em
+}
+
+h3{
+    font-family: 'Noto Serif', serif;
+}
+
+.bg-contenedor{
+    background-color: #eef3c3;
+}
+
+.bg-row{
+    background-image: url(img-mobile/fondo-cartas-02.svg);
+    background-color: #f9fdda;
+}
+
+.bg-card{
+    background-color: #ffffed;
+}
+
+.bg-imagen{
+    background-color: #e7eaad;
+}
+
+footer{background-image: url(img-mobile/footer-02.svg);
+background-repeat: no-repeat;
+background-size: 50rem;
+background-position: center;
+margin-bottom: -10rem;}
+
+/*footer{
+    background: linear-gradient(#0c8f2d, #0d2c04);
+    background-position: center;
+    
+}*/
